@@ -12,13 +12,8 @@ General torchaudio tutorials: https://pytorch.org/tutorials/index.html
  Select one randomly sampled wav file in the given folder, perform the following analysis:
 
   - Print the shape of the picked waveform
-
   - Print the sample rate of the waveform.
-
   - Visualize the waveform using matplotlib
-
   - Create the spectrogram representation of the picked waveform and visualize it.
-
   - Create the MFCC representation of the picked waveform and visualize it.
-
  Reference: https://www.kaggle.com/code/davids1992/speech-representation-and-data-exploration/notebook
