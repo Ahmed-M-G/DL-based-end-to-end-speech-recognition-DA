@@ -16,4 +16,10 @@ General torchaudio tutorials: https://pytorch.org/tutorials/index.html
   - Visualize the waveform using matplotlib
   - Create the spectrogram representation of the picked waveform and visualize it.
   - Create the MFCC representation of the picked waveform and visualize it.
+ 
  Reference: https://www.kaggle.com/code/davids1992/speech-representation-and-data-exploration/notebook
+ 
+## Task 2: Creating a Wav2Vec2 model that can perform feature extraction and classification.
+  - I will create a Wav2Vec2 model that will extract features and classify them.
+  - I will Build the model and load pretrained weights
+  - I will use torchaudio.pipelines.WAV2VEC2_ASR_BASE_960H()
