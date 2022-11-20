@@ -23,3 +23,12 @@ General torchaudio tutorials: https://pytorch.org/tutorials/index.html
   - I will create a Wav2Vec2 model that will extract features and classify them.
   - I will Build the model and load pretrained weights
   - I will use torchaudio.pipelines.WAV2VEC2_ASR_BASE_960H()
+
+## Task 3: Extract acoustic features and generate predicted transcript for each waveform in the given dataset.
+
+## Task 4: evaluate the performance of the trained model on the testing dataset using Word Error Rate (WER), Match Error Rate (MER).
+
+## Task 5: check files with the worst performance and perform a simple error analysis, e.g.,
+  - what are the files having worser performance.
+  - what are the potential reasons
+  - do they share any common patterns?
